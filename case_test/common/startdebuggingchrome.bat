@@ -1,0 +1,1 @@
+start chrome --remote-debugging-port=9999 项目路径

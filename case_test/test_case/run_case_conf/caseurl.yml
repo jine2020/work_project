@@ -1,0 +1,14 @@
+default:
+  - stg
+params:
+  {
+    uat: http;;;;,
+    stg: http;;;,
+    dev: http;;;
+  }
+login:
+  {
+    uat: httplll,
+    stg: http;;;,
+    dev: http...
+  }

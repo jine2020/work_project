@@ -1,0 +1,8 @@
+default:
+  - 回归测试
+params:
+  {
+    回归测试: tracking,
+    新建案件: newcase,
+    全流程: ''
+  }

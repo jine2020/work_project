@@ -1,0 +1,5 @@
+casepany: #发案单位
+  - By: css selector
+    locator: 定位值
+    action: send
+    value: '{Units}'

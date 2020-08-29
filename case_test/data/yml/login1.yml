@@ -1,0 +1,18 @@
+quecklawyer: #选择律师登录入口
+  - By: css selector
+    locator: form>div.nl-log>button
+    action: click
+clickRrcruitment: 点击我要应聘
+
+login2: ##律师端登录
+  - By: css selector
+    locator: 元素定位值
+    action: send
+    value: '{user}'
+  - By: css selector
+    locator: 元素定位值
+    action: send
+    value: '{pwd}'
+  - By: css selector
+    locator: 元素定位值
+    action: click

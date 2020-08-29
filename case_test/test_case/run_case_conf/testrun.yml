@@ -1,0 +1,8 @@
+default:
+  - 本地运行
+params:
+  {
+    本地运行: local,
+    本地调试: debugging,
+    容器运行: docker
+  }
